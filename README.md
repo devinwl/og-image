@@ -1,4 +1,4 @@
-# og-image.devinlumley.com
+# ogimage.devinlumley.com
 
 Serverless service that generates dynamic Open Graph images that you can embed in your <meta> tags.
 
